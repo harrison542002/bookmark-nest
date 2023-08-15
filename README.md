@@ -13,6 +13,7 @@ This is a NestJS backend API with Prisma and Postgreql.
 - Easy initilization of Postgreql db with docker-compose.yml file.
 - Fast typescript compiler in development with SWC.
 - User can register and sign in with credentails.
+- User can create bookmark
 - TDD practice with E2E tests by utilizing JEST and Pactum.
 
 ## Installation
